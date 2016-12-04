@@ -85,8 +85,8 @@ module.exports = function (grunt) {
         md5: {
             all: {
                 files: {
-                    'build/css': 'build/css/styles.css',
-                    'build/js': 'build/js/main.js'
+                    'build/css/': 'build/css/styles.css',
+                    'build/js/': 'build/js/main.js'
                 },
                 options: {
                     keepBasename: true,

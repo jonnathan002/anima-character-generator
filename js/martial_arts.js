@@ -287,7 +287,7 @@ define({
         Base: 20,
         Multiplier: 3
       },
-      MK: 10
+      MK: 10,
       Requirements: {
         'Feats of Strength': 40
       }
